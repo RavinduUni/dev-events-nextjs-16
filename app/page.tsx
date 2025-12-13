@@ -3,7 +3,6 @@ import ExploreBtn from '@/components/ExploreBtn'
 import { events } from '@/lib/constants'
 import React from 'react'
 
-
 const page = () => {
   return (
     <section>
